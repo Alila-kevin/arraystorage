@@ -1,0 +1,15 @@
+D:\C#\1stp\1stp\bin\Debug\net7.0\1stp.exe
+D:\C#\1stp\1stp\bin\Debug\net7.0\1stp.deps.json
+D:\C#\1stp\1stp\bin\Debug\net7.0\1stp.runtimeconfig.json
+D:\C#\1stp\1stp\bin\Debug\net7.0\1stp.dll
+D:\C#\1stp\1stp\bin\Debug\net7.0\1stp.pdb
+D:\C#\1stp\1stp\obj\Debug\net7.0\1stp.csproj.AssemblyReference.cache
+D:\C#\1stp\1stp\obj\Debug\net7.0\1stp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\1stp\1stp\obj\Debug\net7.0\1stp.AssemblyInfoInputs.cache
+D:\C#\1stp\1stp\obj\Debug\net7.0\1stp.AssemblyInfo.cs
+D:\C#\1stp\1stp\obj\Debug\net7.0\1stp.csproj.CoreCompileInputs.cache
+D:\C#\1stp\1stp\obj\Debug\net7.0\1stp.dll
+D:\C#\1stp\1stp\obj\Debug\net7.0\refint\1stp.dll
+D:\C#\1stp\1stp\obj\Debug\net7.0\1stp.pdb
+D:\C#\1stp\1stp\obj\Debug\net7.0\1stp.genruntimeconfig.cache
+D:\C#\1stp\1stp\obj\Debug\net7.0\ref\1stp.dll
